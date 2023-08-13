@@ -1,1 +1,4 @@
-### Twitter GoLang API Clone
+## Twitter GoLang API Clone
+
+#### Author: Aleksey Lovchikov
+
